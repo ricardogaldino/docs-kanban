@@ -1,2 +1,2 @@
-# docs-kanban
-Kanban (Software Engineering)
+# Kanban (Software Engineering)
+https://kanban.university/ https://kanbanbooks.com/
